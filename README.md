@@ -1,57 +1,70 @@
 <div align="center">
 
 <a href="https://horizunhub.com">
-  <img src="https://horizunhub.com/brand/og-image.png" alt="Horizun Group — BIM, data and AI for construction" width="640">
+<img src="https://horizunhub.com/brand/og-image.png" alt="Horizun Group — BIM, data and AI for construction" width="640">
 </a>
 
-# Horizun Group
+# Pablo Alejandro Zúñiga Guevara
 
-**BIM, data & AI for construction.** Building since 2018 · 500+ professionals trained across 7 countries in Latin America.
+### BIM Technology Expert · Revit Automation · Power BI · AI for Construction
+
+**Founder & CEO of Horizun Group** · Civil Engineer · BIM Management Specialist · Master in BIM for Civil Engineering and Infrastructure
 
 [![Horizun Hub](https://img.shields.io/badge/Horizun_Hub-horizunhub.com-0A66C2?style=for-the-badge)](https://horizunhub.com)
-[![PowerBIM Online](https://img.shields.io/badge/PowerBIM_Online-pbim.horizunhub.com-1F6FEB?style=for-the-badge)](https://pbim.horizunhub.com)
-[![YouTube](https://img.shields.io/badge/BIM_Para_Todos-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BIMParaTodos.HorizunAEC)
+[![GitHub](https://img.shields.io/badge/Open_Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pablo-horizun)
+[![YouTube](https://img.shields.io/badge/HorizunHub-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HorizunHub)
 
 </div>
 
 ---
 
-## 👋 Who we are
+## About me
 
-We're an AEC team that builds **the toolkit we use on our own jobsites**: in-house apps, Power BI dashboards wired straight to the model, AI-driven automation, and training that comes from practice. No theory — all of it comes out of real construction projects across Latin America.
+I help the AEC industry turn BIM models and project data into better decisions.
 
-It all lives in **[Horizun Hub](https://horizunhub.com)**: one plan, everything included.
+For more than 10 years I have led BIM, VDC, AI, PMO and digital-transformation initiatives across Latin America. My work combines engineering judgment with production software: Revit automation, model auditing, Power BI dashboards, 4D/5D planning, interoperability and AI-assisted workflows.
 
-## 🧩 The ecosystem
+I am a professor and program developer at Pontificia Universidad Javeriana, an Autodesk Certified Instructor (Silver), Autodesk Certified Professional in Revit, Microsoft Certified Power BI Data Analyst, and buildingSMART professional.
 
-| Module | What it is |
-|---|---|
-| 🛠️ **Apps** | PowerBIM Exporter (Revit & Civil 3D), PowerBIM Online, BuildMotion, CopyToExcel, Family Browser |
-| 🎓 **Academy** | PowerBIM + AI course, BIM leadership program, recordings and guided learning paths |
-| 📊 **Power BI** | `.pbit` templates, dashboards, and our own 3D model viewer running inside Power BI |
-| 📐 **Resources** | Quantity takeoff (Revit + Navisworks), 4D/5D examples, families and templates |
-| 🤖 **AI & Automation** | AI workflows applied to modeling, model auditing and jobsite data |
-| 🧑‍🏫 **2h/month with an expert** | Not a forum, not a chatbot: real sessions about *your* project |
+## What I build
 
-## ⭐ Open source
+- **Revit automation:** production-ready tools, quantity takeoffs, model audits, schedules, families, documentation and controlled model operations.
+- **BIM data products:** Power BI dashboards and 3D model viewers connected to project information.
+- **AEC interoperability:** workflows for Revit, Civil 3D, Navisworks, IFC, Speckle and construction platforms.
+- **AI for construction:** practical assistants and MCP integrations that let AI work with real BIM models.
+- **BIM education:** hands-on programs for Power BIM, AI, coordination, planning and information management.
 
-| Repo | Description |
-|---|---|
-| [**awesome-bim-latam**](https://github.com/HorizunGroup/awesome-bim-latam) | Curated BIM tools, APIs and open source resources — every entry proven on a real project. |
+## Horizun ecosystem
 
-> More open resources on the way. Star us so you don't miss them.
+[Horizun Hub](https://horizunhub.com) brings together the tools, training and services developed from real construction work:
 
-## 🌎 Where we work
+- **Apps:** PowerBIM Exporter, PowerBIM Online, BuildMotion, CopyToExcel and Family Browser.
+- **Open source:** [Horizun Revit MCP](https://github.com/HorizunGroup/horizun-revit-mcp), [Horizun PBI MCP](https://github.com/HorizunGroup/horizun-pbi-mcp) and [awesome-bim-latam](https://github.com/HorizunGroup/awesome-bim-latam).
+- **Academy:** practical training for professionals and organizations.
+- **Data & AI:** model intelligence, auditing, automation and decision support.
 
-Mexico · Chile · **Colombia (HQ)** · Argentina · Peru · Dominican Republic · Venezuela
+## Credentials and evidence
 
-## 📬 Get in touch
+- 10+ years implementing BIM, VDC and digital transformation in Latin America.
+- Civil Engineer, Universidad de los Andes.
+- Specialist in BIM Management, Universitat de Barcelona.
+- Master in BIM for Civil Engineering and Infrastructure, Universidad de Murcia.
+- Professor and developer of BIM programs at Pontificia Universidad Javeriana.
+- Autodesk Certified Instructor — Silver.
+- Autodesk Certified Professional — Revit for Architectural Design.
+- Microsoft Certified — Power BI Data Analyst Associate.
+- buildingSMART Professional Fundamentals.
 
-- 🌐 Web: **[horizunhub.com](https://horizunhub.com)**
-- ▶️ YouTube: **[BIM Para Todos](https://www.youtube.com/@BIMParaTodos.HorizunAEC)** *(in Spanish)*
+> I do not build technology as a demo. I build the tools that BIM teams need to deliver real projects.
+
+## Connect
+
+- Website: [horizunhub.com](https://horizunhub.com)
+- YouTube: [HorizunHub](https://www.youtube.com/@HorizunHub)
+- LinkedIn: [Pablo Alejandro Zúñiga Guevara](https://www.linkedin.com/in/pablo-alejandro-zuniga-guevara-6b4a49129/)
 
 <div align="center">
 
-<sub>Built with 🧱 and data by Horizun Group · LATAM</sub>
+**Built for real AEC work · Colombia · Latin America**
 
 </div>
